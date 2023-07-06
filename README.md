@@ -1,9 +1,7 @@
-# <center>[JKASE D3 V1.0](https://jkasedesign.com/)</center>
-![GITHUB](/image/jkase.png "JKASE LOGO")
+![GITHUB](/image/jkase_logo.png "JKASE LOGO")
+#                                 <center>[JKASE D3 V1.0](https://jkasedesign.com/)</center>
 ### Open Source DIY Triangular Vertical mini-itx case
 ### 直立式三角形 mini-itx 開源DIY機殼
-
-<center>这一行需要居中</center>
 
 # About  關於
 
