@@ -51,8 +51,8 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 
 ### Steps 組裝步驟
 
-Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。  
-Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully.  
+Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。JKASE D3的文件和設計圖均可在該GitHub頁面找到。  
+Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully. JKASE D3 files and design drawings can be found on this GitHub page.  
 
 Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何需要購買的零件，自行生產或購買。  
 Step 2: Identify Metal processing parts, Acrylic, 3D printed parts, and any parts that need to be purchased. And then produce or purchase your own.  
