@@ -1,15 +1,15 @@
-# <p align="center">[JKASE D3 V1.0](https://jkasedesign.com/)</p>
+# <p align="center">JKASE D3 V1.0</p>
 ### <p align="center">Open Source DIY Triangular Vertical mini-itx case  直立式三角形 mini-itx 開源DIY機殼</p>
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
 ## About  關於
-JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 Github 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。  
+JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 GitHub 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。  
 JKASE D3 is an open-source hardware project. All files and links of the project are stored on this GitHub page and are available under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Therefore, please make sure to read the license carefully.
 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
 
 ## Introduction   介紹
-關於JKASE D3的所有特性介紹，可以訪問 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
+關於JKASE D3的所有特性介紹，可以造訪 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
 For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). The GitHub page only lists hardware compatibility briefly.
 
 ## Design Goals  設計初衷
