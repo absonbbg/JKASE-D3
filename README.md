@@ -1,6 +1,6 @@
-![GITHUB](/image/jkase_logo.png "JKASE LOGO")
 # <p align="center">[JKASE D3 V1.0](https://jkasedesign.com/)</p>
 ### <p align="center">Open Source DIY Triangular Vertical mini-itx case  直立式三角形 mini-itx 開源DIY機殼</p>
+![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
 # About  關於
 JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 Github 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。  
@@ -43,8 +43,10 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 **NOTE 1: 這是一個DIY項目，JKASE D3目前是v1.0版本，步驟和零件相當複雜和繁瑣，請做好心理準備~**  
 **NOTE 1: This is a DIY project. The current version of JKASE D3 is v1.0. The steps and parts are quite complicated and tedious. So please be prepared~**
 
-**NOTE 2: 這是我的個人項目，目前更新進度較為緩慢，因此不論使用者手冊還是零件清單都是初階版本，並且會不定時更新**  
-**NOTE 2: This is my personal project. The update process is currently slow. Therefore, both the user manual and the Bill of Materials are preliminary versions and will be updated from time to time**
+**NOTE 2: 這是我的個人項目，目前更新進度較為緩慢，因此不論[使用者手冊](https://docs.google.com/document/d/e/2PACX-1vQK4mfkKKOa2tOuEjwiNdDTAtTq95YFwL81SyO7znb27R7URzNYyeohWamy-4y9wYqcOO8CaGAw7pLA/pub)還是[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)都是初階版本，並且會不定時更新**  
+**NOTE 2: This is my personal project. The update process is currently slow. Therefore, both the [User Manual](https://docs.google.com/document/d/e/2PACX-1vQK4mfkKKOa2tOuEjwiNdDTAtTq95YFwL81SyO7znb27R7URzNYyeohWamy-4y9wYqcOO8CaGAw7pLA/pub) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) are preliminary versions and will be updated from time to time**
 
 **NOTE 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
 **NOTE 3: You can reach me at Discord: jk.bbg or instagram [jkase_design](https://www.instagram.com/jkase_design/)**
+
+1. Step 1: 請仔細閱讀
