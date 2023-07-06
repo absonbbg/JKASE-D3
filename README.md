@@ -10,6 +10,12 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
 JKASE D3 is an open source hardware project. All files and links of the project are stored on this Github page and are available under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Therefore, please make sure to read the license carefully.
 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
+
+## Introduction   介紹
+關於JKASE D3的所有特性，可以訪問 [www.jkasedesign.com](https://jkasedesign.com/)，該Github頁面僅簡單列出硬體兼容性。
+
+For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). The Github page only lists hardware compatibility briefly.
+
 ## Design Goals  設計初衷
 * Aesthetics  美觀/獨特設計
 * Accessible I/O  所有I/O統一位於側面
