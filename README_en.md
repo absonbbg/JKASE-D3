@@ -1,4 +1,4 @@
-# <p align="center">| [正體中文](/README_tw.md)  | English |</p>
+# <p align="center">| [正體中文](/README.md)  | English |</p>
 # <p align="center">JKASE D3 V1.0</p>
 ### <p align="center">Open Source DIY Triangular Vertical mini-itx case</p>
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
