@@ -1,6 +1,7 @@
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")
-# [JKASE D3 V1.0](https://jkasedesign.com/)
-### Open Source DIY Triangular Vertical mini-itx case  直立式三角形 mini-itx 開源DIY機殼
+# <p align="center">[JKASE D3 V1.0](https://jkasedesign.com/)</p>
+### <p align="center">Open Source DIY Triangular Vertical mini-itx case  直立式三角形 mini-itx 開源DIY機殼</p>
+
 <p align="center">align居中</p>
 
 # About  關於
