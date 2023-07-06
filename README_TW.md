@@ -36,7 +36,7 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
 * Foot Print：508.65766 cm^2   
 * Volume：21 L   
 * Volume(with decorative Panel)：28 L   
-* Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details   
+* Note: 不同形態的規格兼容性均不相同，詳情請參閱[規格表](https://www.jkasedesign.com/general-1)   
 
 ## 組裝教學
 **NOTE 1: 這是一個DIY項目，JKASE D3目前是v1.0版本，步驟和零件相當複雜和繁瑣，請做好心理準備~**   
