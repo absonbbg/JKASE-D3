@@ -5,8 +5,10 @@
 <p align="center">align居中</p>
 
 # About  關於
-JKASE D3是一個開源的硬體項目。該項目所有文件和鏈接都存放在本Github頁面並且在CERN Open Hardware Licence Version 2 - Strongly Reciprocal下以供使用。因此請務必詳細閱讀該許可證。
+JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 Github 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。
+
 JKASE D3 is an open source hardware project. All files and links of the project are stored on this Github page and are available under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Therefore, please make sure to read the license carefully.
+
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
 ## Design Goals  設計初衷
 * Aesthetics  美觀/獨特設計
