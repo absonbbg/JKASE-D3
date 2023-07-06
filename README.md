@@ -1,18 +1,23 @@
-# [JKASE D3 V1.0](https://jkasedesign.com/)
+# <center>[JKASE D3 V1.0](https://jkasedesign.com/)</center>
+![GITHUB](/image/jkase.png "JKASE LOGO")
 ### Open Source DIY Triangular Vertical mini-itx case
+### 直立式三角形 mini-itx 開源DIY機殼
 
-# About
+<center>这一行需要居中</center>
+
+# About  關於
+
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
-## Design Goals
-* Aesthetics
-* Accessible I/O
-* Vertical design
-* Thermal performance
-* Hardware compatibility
-* Modifiability
-* Dust filtration
+## Design Goals  設計初衷
+* Aesthetics  美觀/獨特設計
+* Accessible I/O  所有I/O統一位於側面
+* Vertical design  垂直設計
+* Thermal performance  良好散熱
+* Hardware compatibility  良好硬體兼容性
+* Modifiability  模組化
+* Dust filtration  良好防塵效果
 
-## Compatibility
+## Compatibility  硬體相容性
 * Motherboard：​mini-ITX / mini-DTX
 * Power Supply：SFX / SFX-L
 * AIO：280mm
@@ -26,7 +31,7 @@
 * Volume(with decorative Panel)：28 L
 * Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details
 
-# How to build
+# How to build  組裝教學
 
 
-# Bill of materials
+# Bill of materials  物料清單
