@@ -2,7 +2,7 @@
 ### <p align="center">Open Source DIY Triangular Vertical mini-itx case  直立式三角形 mini-itx 開源DIY機殼</p>
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
-# About  關於
+## About  關於
 JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 Github 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。  
 JKASE D3 is an open-source hardware project. All files and links of the project are stored on this GitHub page and are available under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Therefore, please make sure to read the license carefully.
 
@@ -39,7 +39,7 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 * Volume(with decorative Panel)：28 L
 * Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details
 
-# How to build  組裝教學
+## How to build  組裝教學
 **NOTE 1: 這是一個DIY項目，JKASE D3目前是v1.0版本，步驟和零件相當複雜和繁瑣，請做好心理準備~**  
 **NOTE 1: This is a DIY project. The current version of JKASE D3 is v1.0. The steps and parts are quite complicated and tedious. So please be prepared~**
 
@@ -49,7 +49,7 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 **NOTE 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
 **NOTE 3: You can reach me at Discord: jk.bbg or instagram [jkase_design](https://www.instagram.com/jkase_design/)**
 
-## Steps 組裝步驟
+### Steps 組裝步驟
 
 Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。  
 Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully.  
