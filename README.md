@@ -49,14 +49,14 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 **NOTE 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
 **NOTE 3: You can reach me at Discord: jk.bbg or instagram [jkase_design](https://www.instagram.com/jkase_design/)**
 
-1. Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。  
-1. Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully.  
+Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。  
+Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully.  
 
-2. Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何需要購買的零件，自行生產或購買。
-2. Step 2: Identify Metal processing parts, Acrylic, 3D printed parts, and any parts that need to be purchased. And then produce or purchase your own.
+Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何需要購買的零件，自行生產或購買。  
+Step 2: Identify Metal processing parts, Acrylic, 3D printed parts, and any parts that need to be purchased. And then produce or purchase your own.  
 
-3. Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)進行組裝  
-3. Step 3: Assemble using [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true)
+Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)進行組裝  
+Step 3: Assemble using [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true)  
 
-4. Step 4: 組裝完成  
-4. Step 4: Enjoy your new case
+Step 4: 組裝完成  
+Step 4: Enjoy your new case
