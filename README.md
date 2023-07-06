@@ -61,4 +61,6 @@ Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8
 Step 3: Assemble using [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true)  
 
 Step 4: 組裝完成  
-Step 4: Enjoy your new case
+Step 4: Enjoy your new case  
+
+![GITHUB](/image/night_view.jpg "Night View")
