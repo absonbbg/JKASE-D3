@@ -49,6 +49,8 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 **NOTE 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
 **NOTE 3: You can reach me at Discord: jk.bbg or instagram [jkase_design](https://www.instagram.com/jkase_design/)**
 
+## Steps 組裝步驟
+
 Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。  
 Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully.  
 
