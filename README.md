@@ -9,7 +9,7 @@ JKASE D3 is an open-source hardware project. All files and links of the project 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
 
 ## Introduction   介紹
-關於JKASE D3的所有特性介紹，可以訪問 [www.jkasedesign.com](https://jkasedesign.com/)，該Github頁面僅簡單列出硬體兼容性。  
+關於JKASE D3的所有特性介紹，可以訪問 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
 For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). The GitHub page only lists hardware compatibility briefly.
 
 ## Design Goals  設計初衷
@@ -18,8 +18,8 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 * Vertical design  垂直設計
 * Thermal performance  良好散熱
 * Hardware compatibility  良好硬體兼容性
-* Modifiability  模組化
 * Dust filtration  良好防塵效果
+* Modifiability  模組化
 * Different Forms Transformation  形態變換
     * General Form  常規形態
     * Dual Systems Form  雙系統形態
