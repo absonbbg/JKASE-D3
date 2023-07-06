@@ -24,7 +24,6 @@
 * Foot Print：508.65766 cm^2
 * Volume：21 L
 * Volume(with decorative Panel)：28 L
-
 * Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details
 
 # How to build
