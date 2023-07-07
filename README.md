@@ -47,7 +47,6 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
 Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。JKASE D3的文件和設計圖均可在該GitHub頁面找到。  
 Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何需要購買的零件，自行生產或購買。  
 Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)進行組裝  
-
 Step 4: 組裝完成  
 
 ![GITHUB](/image/night_view.jpg "Night View")
