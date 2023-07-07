@@ -1,6 +1,6 @@
 ## <p align="center">| 正體中文  | [English](/README_en.md) |</p>
 # <p align="center">JKASE D3 V1.0</p>
-### <p align="center">直立式三角形開源 mini-itx 機殼</p>
+### <p align="center">直立式三角形開源 DIY mini-itx 機殼</p>
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
 ## 關於   
