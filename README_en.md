@@ -10,6 +10,7 @@ JKASE D3 is an open-source hardware project. All files and links of the project 
 
 ## Introduction    
 JKASE D3 is a case that values the DIY spirit. It is based on an equilateral triangle, you can change the side panel and parts on your requirement. For example, from General Form to Duo Systems Form, or from General Cooling Mode to Duo Aio Mode. Also, you can use your imagination and creation to design a side panel you want. Everything is up to you. That's why JKASE D3 is an open-source project.   
+   
 For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). This GitHub page only lists hardware compatibility briefly.
 
 ## Design Goals  
