@@ -14,6 +14,7 @@ JKASE D3是一款重視DIY精神的機殼，並且以等邊三角形作為基礎
 關於JKASE D3的所有特性介紹，可以造訪 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
 
 ## 設計初衷   
+* DIY 精神
 * 美觀/獨特設計   
 * 所有I/O統一位於側面   
 * 垂直設計   
