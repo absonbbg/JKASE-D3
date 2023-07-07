@@ -39,20 +39,14 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 * Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details
 
 ## How to build  
-**NOTE 1: This is a DIY project. The current version of JKASE D3 is v1.0. The steps and parts are quite complicated and tedious. So please be prepared~**
- 
-**NOTE 2: This is my personal project. The update process is currently slow. Therefore, both the [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) are preliminary versions and will be updated from time to time.**
-  
+**NOTE 1: This is a DIY project. The current version of JKASE D3 is v1.0. The steps and parts are quite complicated and tedious. So please be prepared~**   
+**NOTE 2: This is my personal project. The update process is currently slow. Therefore, both the [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) are preliminary versions and will be updated from time to time.**   
 **NOTE 3: You can reach me at Discord: jk.bbg or instagram [jkase_design](https://www.instagram.com/jkase_design/).**
 
 ### Steps   
-
 Step 1: Please read [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true) carefully. JKASE D3 files and design drawings can be found on this GitHub page.  
-  
-Step 2: Identify Metal processing parts, Acrylic, 3D printed parts, and any parts that need to be purchased. And then produce or purchase your own.  
- 
+Step 2: Identify Metal processing parts, Acrylic, 3D printed parts, and any required tools or parts. And then produce or purchase your own.  
 Step 3: Assemble using [User Manual](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing) and the [Bill of Materials](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1207346702&single=true).  
- 
 Step 4: Enjoy your new case.  
 
 ![GITHUB](/image/night_view.jpg "Night View")
