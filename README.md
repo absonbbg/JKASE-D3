@@ -38,19 +38,14 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
 * Volume(with decorative Panel)：28 L   
 * 註: 不同形態的規格兼容性均不相同，詳情請參閱[規格表](https://www.jkasedesign.com/general-1)   
 
-## 組裝教學
-**NOTE 1: 這是一個DIY項目，JKASE D3目前是v1.0版本，步驟和零件相當複雜和繁瑣，請做好心理準備~**   
+## 組裝教學   
+**註 1: 這是一個DIY項目，JKASE D3目前是v1.0版本，步驟和零件相當複雜和繁瑣，請做好心理準備~**   
+**註 2: 這是我的個人項目，目前更新進度較為緩慢，因此不論[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)還是[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)都是初階版本，並且會不定時更新**  
+**註 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
 
-**NOTE 2: 這是我的個人項目，目前更新進度較為緩慢，因此不論[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)還是[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)都是初階版本，並且會不定時更新**  
-
-**NOTE 3: 你可以通過 Discord: jk.bbg 或者 instagram [jkase_design](https://www.instagram.com/jkase_design/) 聯繫我**  
-
-### Steps 組裝步驟
-
+### Steps 組裝步驟   
 Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。JKASE D3的文件和設計圖均可在該GitHub頁面找到。  
-
 Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何需要購買的零件，自行生產或購買。  
-
 Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)進行組裝  
 
 Step 4: 組裝完成  
