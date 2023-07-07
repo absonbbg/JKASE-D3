@@ -9,6 +9,7 @@ JKASE D3 is an open-source hardware project. All files and links of the project 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")
 
 ## Introduction    
+JKASE D3 is a case that values the DIY spirit. It is based on an equilateral triangle, you can change the side panel and parts on your requirement. For example, from General Form to Duo Systems Form, or from General Cooling Mode to Duo Aio Mode. Also, you can use your imagination and creation to design a side panel you want. Everything is up to you. That's why JKASE D3 is an open-source project.
 For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). This GitHub page only lists hardware compatibility briefly.
 
 ## Design Goals  
@@ -29,7 +30,7 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 * Power Supply：SFX / SFX-L
 * AIO：280mm
 * CPU Cooler：158mm
-* GPU：363mm, 3.5 slots / 4 slots (28L)
+* GPU：338mm / 363mm, 3.5 slots / 4 slots (28L)
 * Chassis Fan：4 x 14cm / 6 x 14cm (28L)
 * Drive：4 x 2.5'' drive​
 * Height：41.6 cm
