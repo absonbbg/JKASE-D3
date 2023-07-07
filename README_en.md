@@ -38,7 +38,7 @@ For all the features of JKASE D3, you can access [www.jkasedesign.com](https://j
 * Foot Print：508.65766 cm^2
 * Volume：21 L
 * Volume(with decorative Panel)：28 L
-* Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/general-1) page for details
+* Note: The compatibility of specifications varies for different forms. Please refer to the [specification](https://www.jkasedesign.com/en/general-1) page for details
 
 ## How to build  
 **NOTE 1: This is a DIY project. The current version of JKASE D3 is v1.0. The steps and parts are quite complicated and tedious. So please be prepared~**   
