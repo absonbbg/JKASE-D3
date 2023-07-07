@@ -4,7 +4,7 @@
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
 ## 關於   
-JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 GitHub 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必詳細閱讀該許可證。  
+JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 GitHub 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必仔細閱讀該許可證。  
 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")   
 
