@@ -9,6 +9,7 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")   
 
 ## 介紹   
+JKASE D3是一款重視DIY精神的機殼，並且以等邊三角形作為基礎，你可以根據需求更換任意一邊的側板和零件，例如由常規形態轉變為雙系統形態，由常規散熱模式轉變為雙水冷散熱模式；甚至盡情發揮你的奇思妙想，自行設計出一款稱心如意的側板，一切由你決定，這也是該項目之所以開源的原因。
 關於JKASE D3的所有特性介紹，可以造訪 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
 
 ## 設計初衷   
@@ -25,17 +26,17 @@ JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放
     * 三系統形態   
 
 ## 硬體相容性   
-* Motherboard：​mini-ITX / mini-DTX   
-* Power Supply：SFX / SFX-L   
-* AIO：280mm   
-* CPU Cooler：158mm   
-* GPU：363mm, 3.5 slots / 4 slots (28L)   
-* Chassis Fan：4 x 14cm / 6 x 14cm (28L)   
-* Drive：4 x 2.5'' drive​   
-* Height：41.6 cm   
-* Foot Print：508.65766 cm^2   
-* Volume：21 L   
-* Volume(with decorative Panel)：28 L   
+* 主機板：​mini-ITX / mini-DTX   
+* 電源：SFX / SFX-L   
+* 水冷：280mm   
+* 風冷：158mm   
+* 顯示卡：338mm / 363mm, 3.5 slots / 4 slots (28L)   
+* 風扇：4 x 14cm / 6 x 14cm (28L)   
+* 硬碟：4 x 2.5'' drive​   
+* 高度：41.6 cm   
+* 底面積：508.65766 cm^2   
+* 體積(無裝飾板)：21 L   
+* 體積(帶裝飾板)：28 L     
 * 註: 不同形態的規格兼容性均不相同，詳情請參閱[規格表](https://www.jkasedesign.com/general-1)   
 
 ## 組裝教學   
