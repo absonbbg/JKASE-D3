@@ -48,7 +48,7 @@ JKASE D3是一款重視DIY精神的機殼，並且以等邊三角形作為基礎
    
 ![GITHUB](/image/exploded_view.gif "Exploded View")   
    
-### Steps 組裝步驟   
+### 組裝步驟   
 Step 1: 請仔細閱讀[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)。JKASE D3的文件和設計圖均可在該GitHub頁面找到。  
 Step 2: 釐清鈑金件、亞克力件、3D打印件以及任何所需的零件或工具，自行生產或購買。  
 Step 3: 根據[使用者手冊](https://docs.google.com/document/d/1VRi_LQBDhcZ8YW_KE0V_FxEDj4TOAPhPPbnMbp1qJXQ/edit?usp=sharing)和[零件清單](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDV55PDLI_-VLqr5_B4HkwDLA5240rTCraWzzHT4jYiwCrdkjbFOL7cVF3HNw2yrIR6ZoA4pk6Mkd6/pubhtml?gid=1001938012&single=true)進行組裝  
