@@ -13,7 +13,7 @@ JKASE D3 is a case that values the DIY spirit. It is based on an equilateral tri
    
 For all the features of JKASE D3, you can access [www.jkasedesign.com](https://jkasedesign.com/en). This GitHub page only lists hardware compatibility briefly.
 
-## Design Goals  
+## Design Ideas  
 * DIY Spirit
 * Aesthetics  
 * Accessible I/O  
