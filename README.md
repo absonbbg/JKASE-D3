@@ -1,15 +1,15 @@
 ## <p align="center">| 正體中文  | [English](/README_en.md) |</p>
-# <p align="center">JKASE D3 V1.0</p>
+# <p align="center">Jkase D3 V1.0</p>
 ### <p align="center">直立式三角形開源 DIY mini-itx 機殼</p>
 ![GITHUB](/image/jkase_logo.png "JKASE LOGO")  
 
 ## 關於   
-JKASE D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 GitHub 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必仔細閱讀該許可證。  
+Jkase D3是一個開源的硬體項目，該項目所有文件和鏈接都存放在本 GitHub 頁面並且在 CERN Open Hardware Licence Version 2 - Strongly Reciprocal 下以供使用。因此請務必仔細閱讀該許可證。  
 
 ![GITHUB](/image/sunset_in_mirror.jpeg "Sunset In Mirror")   
 
 ## 介紹   
-JKASE D3是一款重視DIY精神的機殼，並且以等邊三角形作為基礎，你可以根據需求更換任意一邊的側板和零件，例如由常規形態轉變為雙系統形態，由常規散熱模式轉變為雙水冷散熱模式；你甚至可盡情發揮奇思妙想，自行設計出一款稱心如意的側板，一切由你決定，這也是該項目之所以開源的原因。   
+Jkase D3是一款重視DIY精神的機殼，並且以等邊三角形作為基礎，你可以根據需求更換任意一邊的側板和零件，例如由常規形態轉變為雙系統形態，由常規散熱模式轉變為雙水冷散熱模式；你甚至可盡情發揮奇思妙想，自行設計出一款稱心如意的側板，一切由你決定，這也是該項目之所以開源的原因。   
    
 關於JKASE D3的所有特性介紹，可以造訪 [www.jkasedesign.com](https://jkasedesign.com/)，該GitHub頁面僅簡單列出硬體兼容性。  
 
